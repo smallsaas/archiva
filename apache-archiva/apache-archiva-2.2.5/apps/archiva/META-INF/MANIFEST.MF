@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: Archiva Web :: Javascript Application
+Implementation-Version: 2.2.5
+Archiver-Version: Plexus Archiver
+Built-By: martin
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Archiva Web :: Javascript Application
+Implementation-Vendor-Id: org.apache.archiva
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_131
+Specification-Version: 2.2.5
+Implementation-URL: http://archiva.apache.org/ref/2.2.5/archiva-web/ar
+ chiva-webapp
+

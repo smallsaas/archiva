@@ -1,0 +1,11 @@
+version: "3"
+services:
+  archive:
+    container_name: archive
+    image: 'archive:sandbox'
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ./archive:/webapps
+    environment:
+      TZ: "Asia/Shanghai"
+    privileged: true
